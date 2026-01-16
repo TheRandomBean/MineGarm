@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\dfvar\Desktop\MineGarm\Server\MinecraftGarminserver\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverView.mc" id="1" lineNum="4" parent="globals/MinecraftGarminserverView" pc="268435460" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverApp.mc" id="2" lineNum="26" parent="globals" pc="268435479" symbol="getApp"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverApp.mc" id="2" lineNum="27" parent="globals" pc="268435489" symbol="getApp"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverDelegate.mc" id="3" lineNum="4" parent="globals/MinecraftGarminserverDelegate" pc="268435505" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverMenuDelegate.mc" id="4" lineNum="5" parent="globals/MinecraftGarminserverMenuDelegate" pc="268435524" symbol="&lt;init&gt;"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="5" lineNum="7" parent="globals/Rez" pc="268435543" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverApp.mc" id="6" lineNum="5" parent="globals/MinecraftGarminserverApp" pc="268435567" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverView.mc" id="8" lineNum="11" parent="globals/MinecraftGarminserverView" pc="268435586" symbol="onLayout"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverView.mc" id="8" lineNum="12" parent="globals/MinecraftGarminserverView" pc="268435588" symbol="onLayout"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverView.mc" id="9" lineNum="6" parent="globals/MinecraftGarminserverView" pc="268435630" symbol="initialize"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverView.mc" id="9" lineNum="7" parent="globals/MinecraftGarminserverView" pc="268435632" symbol="initialize"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverView.mc" id="11" lineNum="22" parent="globals/MinecraftGarminserverView" pc="268435651" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverView.mc" id="11" lineNum="24" parent="globals/MinecraftGarminserverView" pc="268435653" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverView.mc" id="11" lineNum="25" parent="globals/MinecraftGarminserverView" pc="268435675" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverView.mc" id="11" lineNum="29" parent="globals/MinecraftGarminserverView" pc="268435687" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverDelegate.mc" id="12" lineNum="10" parent="globals/MinecraftGarminserverDelegate" pc="268435749" symbol="onMenu"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverDelegate.mc" id="12" lineNum="11" parent="globals/MinecraftGarminserverDelegate" pc="268435751" symbol="onMenu"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverDelegate.mc" id="12" lineNum="12" parent="globals/MinecraftGarminserverDelegate" pc="268435832" symbol="onMenu"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverDelegate.mc" id="13" lineNum="6" parent="globals/MinecraftGarminserverDelegate" pc="268435835" symbol="initialize"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverDelegate.mc" id="13" lineNum="7" parent="globals/MinecraftGarminserverDelegate" pc="268435837" symbol="initialize"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverMenuDelegate.mc" id="14" lineNum="11" parent="globals/MinecraftGarminserverMenuDelegate" pc="268435856" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverMenuDelegate.mc" id="14" lineNum="12" parent="globals/MinecraftGarminserverMenuDelegate" pc="268435858" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverMenuDelegate.mc" id="14" lineNum="13" parent="globals/MinecraftGarminserverMenuDelegate" pc="268435869" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverMenuDelegate.mc" id="14" lineNum="14" parent="globals/MinecraftGarminserverMenuDelegate" pc="268435893" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverMenuDelegate.mc" id="14" lineNum="15" parent="globals/MinecraftGarminserverMenuDelegate" pc="268435904" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverMenuDelegate.mc" id="15" lineNum="7" parent="globals/MinecraftGarminserverMenuDelegate" pc="268435929" symbol="initialize"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverMenuDelegate.mc" id="15" lineNum="8" parent="globals/MinecraftGarminserverMenuDelegate" pc="268435931" symbol="initialize"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverApp.mc" id="16" lineNum="12" parent="globals/MinecraftGarminserverApp" pc="268435950" symbol="onStart"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverApp.mc" id="17" lineNum="20" parent="globals/MinecraftGarminserverApp" pc="268435953" symbol="getInitialView"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverApp.mc" id="17" lineNum="21" parent="globals/MinecraftGarminserverApp" pc="268435955" symbol="getInitialView"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverApp.mc" id="18" lineNum="7" parent="globals/MinecraftGarminserverApp" pc="268436022" symbol="initialize"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverApp.mc" id="18" lineNum="8" parent="globals/MinecraftGarminserverApp" pc="268436024" symbol="initialize"/>
+<entry filename="C:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\source\\MinecraftGarminserverApp.mc" id="19" lineNum="16" parent="globals/MinecraftGarminserverApp" pc="268436043" symbol="onStop"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="20" lineNum="14" parent="globals/Rez/Layouts" pc="268436046" symbol="MainLayout"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="20" lineNum="15" parent="globals/Rez/Layouts" pc="268436058" symbol="MainLayout"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="20" lineNum="17" parent="globals/Rez/Layouts" pc="268436071" symbol="MainLayout"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="20" lineNum="19" parent="globals/Rez/Layouts" pc="268436205" symbol="MainLayout"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="20" lineNum="20" parent="globals/Rez/Layouts" pc="268436310" symbol="MainLayout"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="20" lineNum="22" parent="globals/Rez/Layouts" pc="268436347" symbol="MainLayout"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="21" lineNum="27" parent="globals/Rez/Menus/MainMenu" pc="268436374" symbol="&lt;init&gt;"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="22" lineNum="28" parent="globals/Rez/Menus/MainMenu" pc="268436393" symbol="initialize"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="22" lineNum="29" parent="globals/Rez/Menus/MainMenu" pc="268436395" symbol="initialize"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="22" lineNum="30" parent="globals/Rez/Menus/MainMenu" pc="268436413" symbol="initialize"/>
+<entry filename="c:\\Users\\dfvar\\Desktop\\MineGarm\\Server\\MinecraftGarminserver\\bin\\gen\\006-B3076-00\\source\\Rez.mcgen" id="22" lineNum="31" parent="globals/Rez/Menus/MainMenu" pc="268436469" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="8389346" symbol="text"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="5" module="true" symbol="globals/Rez/Menus"/>
+<entry id="15" method="true" symbol="MainLayout"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="9" object="true" symbol="MinecraftGarminserverMenuDelegate"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry id="6" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="10" object="true" symbol="MinecraftGarminserverView"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="20" symbol="prompt"/>
+<entry field="true" id="14" symbol="id_monkey"/>
+<entry id="7" object="true" symbol="MinecraftGarminserverApp"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="22" symbol="item_2"/>
+<entry id="21" symbol="item_1"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="16" object="true" symbol="MainMenu"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8" object="true" symbol="MinecraftGarminserverDelegate"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="19" symbol="menu_label_2"/>
+<entry field="true" id="18" symbol="menu_label_1"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435629" name="dc" stackId="1" startPc="268435586"/>
+<entry arg="true" endPc="268435748" name="dc" stackId="1" startPc="268435651"/>
+<entry arg="true" endPc="268435928" name="item" stackId="1" startPc="268435856"/>
+<entry arg="true" endPc="268436373" name="dc" stackId="1" startPc="268436046"/>
+<entry endPc="268436373" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268436058"/>
+<entry endPc="268436373" name="rez_cmp_local_text_1193959466" stackId="3" startPc="268436058"/>
+<entry endPc="268436373" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436058"/>
+</localVars>
+<deviceInfo deviceVersion="8fc30743a4191ec19bcafa28e3ffcc2b5a958a17" partNumber="006-B3076-00"/>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="71" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/MinecraftGarminserverView" offset="158" parentId="globals" symbolId="MinecraftGarminserverView" type="class"/>
+<dataEntry label="globals/MinecraftGarminserverDelegate" offset="237" parentId="globals" symbolId="MinecraftGarminserverDelegate" type="class"/>
+<dataEntry label="globals/MinecraftGarminserverMenuDelegate" offset="292" parentId="globals" symbolId="MinecraftGarminserverMenuDelegate" type="class"/>
+<dataEntry label="globals/Rez" offset="347" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/MinecraftGarminserverApp" offset="410" parentId="globals" symbolId="MinecraftGarminserverApp" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="481" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="528" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="567" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="606" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/Menus/MainMenu" offset="669" parentId="Menus" symbolId="MainMenu" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435478" name="&lt;init&gt;" parent="MinecraftGarminserverView" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435504" name="getApp" startPc="268435479">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435523" name="&lt;init&gt;" parent="MinecraftGarminserverDelegate" startPc="268435505">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435542" name="&lt;init&gt;" parent="MinecraftGarminserverMenuDelegate" startPc="268435524">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435566" name="&lt;init&gt;" parent="Rez" startPc="268435543">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435585" name="&lt;init&gt;" parent="MinecraftGarminserverApp" startPc="268435567">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MinecraftGarminserverView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435629" name="onLayout" parent="MinecraftGarminserverView" startPc="268435586">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435650" name="initialize" parent="MinecraftGarminserverView" startPc="268435630">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MinecraftGarminserverView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435748" name="onUpdate" parent="MinecraftGarminserverView" startPc="268435651">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435834" name="onMenu" parent="MinecraftGarminserverDelegate" startPc="268435749">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435855" name="initialize" parent="MinecraftGarminserverDelegate" startPc="268435835">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435928" name="onMenuItem" parent="MinecraftGarminserverMenuDelegate" startPc="268435856">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435949" name="initialize" parent="MinecraftGarminserverMenuDelegate" startPc="268435929">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435952" name="onStart" parent="MinecraftGarminserverApp" startPc="268435950">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436021" name="getInitialView" parent="MinecraftGarminserverApp" startPc="268435953">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436042" name="initialize" parent="MinecraftGarminserverApp" startPc="268436022">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436045" name="onStop" parent="MinecraftGarminserverApp" startPc="268436043">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436373" name="MainLayout" parent="Layouts" startPc="268436046">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436392" name="&lt;init&gt;" parent="MainMenu" startPc="268436374">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436525" name="initialize" parent="MainMenu" startPc="268436393">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

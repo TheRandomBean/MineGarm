@@ -19,9 +19,20 @@ class MinecraftGarminserverView extends WatchUi.View {
     }
 
     // Update the view
-    function onUpdate(dc as Dc) as Void {
-        // Call the parent onUpdate function to redraw the layout
-        View.onUpdate(dc);
+    function onUpdate(dc) {
+        // 1. Clear the background (optional but recommended)
+        dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_WHITE);
+        dc.clear();
+
+        // 2. Draw your text directly to the device context (dc)
+        // Parameters: x, y, font, "string", justification
+        dc.drawText(
+            dc.getWidth() / 2, 
+            dc.getHeight() / 2, 
+            Graphics.FONT_SMALL, 
+            "Testing", 
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
+        );
     }
 
     // Called when this View is removed from the screen. Save the
