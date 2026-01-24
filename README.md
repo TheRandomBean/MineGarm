@@ -20,3 +20,6 @@ The Monkey C language is reasonably powerful but lacks native TCP support. This 
 
 ## Note
 This project is in the planning and early implementation phase. Expect incomplete features, breaking changes, and frequent experimentation. Thank you for your interest!
+
+## License
+[MIT](https://github.com/TheRandomBean/MineGarm/blob/main/LICENSE)
