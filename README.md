@@ -1,7 +1,7 @@
 # Minecraft Server for Garmin Watch
 
 ## Overview
-This repository explores the idea of running a barebones Minecraft server on a Garmin watch. The project originally started as a joke between friends, but has since turned into an experimental effort to see how far the Garmin platform can be pushed.
+This repository explores the idea of running a minimal Minecraft server on a Garmin watch. The project originally started as a joke between friends, but has since turned into an experimental effort to see how far the Garmin platform can be pushed.
 
 At this stage, the project is in **very early development** and does not yet function as a working Minecraft server.
 
