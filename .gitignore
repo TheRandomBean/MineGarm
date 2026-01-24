@@ -1,2 +1,19 @@
-# Ignore workspace files
+# Monkey C / Connect IQ build output
+bin/
+build/
+*.prg
+*.iq
+*.barrel
+
+# VS Code (local workspace settings)
+.vscode/
 *.code-workspace
+
+# Connect IQ / Eclipse leftovers (in case they exist)
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
