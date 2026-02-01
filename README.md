@@ -10,9 +10,7 @@ The long-term goal is to develop a barebones Minecraft server capable of running
 
 The intended architecture is:
 
-<img width="743" height="114" alt="image" src="https://github.com/user-attachments/assets/23ba1070-d586-44c4-a530-b27676b2b086" />
-
-
+<img width="745" height="116" alt="image" src="https://github.com/user-attachments/assets/8e60e09a-d95b-4257-b419-e09729dd51ee" />
 
 The client connects to a proxy, which communicates with a mobile SDK companion app. The companion app then interfaces with the watch.
 
